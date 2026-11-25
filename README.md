@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello! 👋 I’m Salkyn
 
-<!--
-**salkyn-sit/salkyn-sit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+* 🎓 I am a SIT student.
+* 💻 I am learning Information Technology and programming.
+* 🌱 I am developing my computer skills and learning new things.
+* 🎯 My goal is to become a good IT specialist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Interests
+
+* Information Technology
+* Programming
+* Computer systems
+* Modern technologies
+
+My Skills
+
+* Basic computer skills
+* Python (beginner)
+* Git and GitHub (beginner)
+
+⸻
+
+✨ Thank you for visiting my profile!
